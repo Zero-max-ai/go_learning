@@ -2,7 +2,7 @@
 
 ## Week 1: Fundamentals of Go
 
-### Day 1: Introduction to Go  - [x]
+### Day 1: Introduction to Go  - done
 - **Goal**: Familiarize yourself with Go and set up your environment.
 - **Topics**:
   - Overview of Go (history, design goals).
