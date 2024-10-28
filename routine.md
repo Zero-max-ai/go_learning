@@ -19,7 +19,7 @@
   - Practice writing small programs.
 - **Time**: 1-2 hours.
 
-### Day 3: Control Flow
+### Day 3: Control Flow     - done
 - **Goal**: Learn how to manage control flow in Go.
 - **Topics**:
   - If statements, loops (`for`, no `while` in Go).
