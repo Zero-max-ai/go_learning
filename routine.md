@@ -28,7 +28,7 @@
   - Write simple control flow programs.
 - **Time**: 1-2 hours.
 
-### Day 4: Functions and Error Handling (Part 1)
+### Day 4: Functions and Error Handling (Part 1)    -   done
 - **Goal**: Explore Go’s function syntax and error handling basics.
 - **Topics**:
   - Function declaration, multiple return values.
