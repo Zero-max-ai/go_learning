@@ -46,7 +46,7 @@
   - Practice handling errors in Go.
 - **Time**: 1-2 hours.
 
-### Day 6: Pointers and Memory
+### Day 6: Pointers and Memory  -   done
 - **Goal**: Learn how Go handles pointers and memory management.
 - **Topics**:
   - Pointers in Go.
