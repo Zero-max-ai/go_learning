@@ -19,9 +19,9 @@ Basic data types
 Control structures (if, for, switch)
 Basic functions
 
-
-
 Weekend Project: Create a simple calculator program
+
+
 Week 2: Data Structures
 
 Days 1-3: Built-in Collections
@@ -30,16 +30,15 @@ Arrays and Slices
 Maps
 Strings and runes
 
-
 Days 4-5: Structs & Pointers
 
 Struct basics
 Methods with receivers
 Pointer fundamentals
 
-
-
 Weekend Project: Build a student grade management system
+
+
 Week 3: Error Handling & Functions
 
 Days 1-3: Functions Deep Dive
